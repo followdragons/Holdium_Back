@@ -139,3 +139,5 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
+
+/holdium_project/static/

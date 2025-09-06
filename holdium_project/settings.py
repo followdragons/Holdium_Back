@@ -87,6 +87,7 @@ USE_TZ = True
 
 # Статика
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'holdium_project/static'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
